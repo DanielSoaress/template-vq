@@ -1,0 +1,9 @@
+[2020-11-12 09:02:04.475] [sharedprocess] [info] main {"machineId":"d0869748d8077cb45fe9c4cb5466776fd50c9c45f1d75ef8ddc6dfc9801951ef","windowId":2}
+[2020-11-12 09:02:04.512] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/project/template-vq/~/.vscode-root/User/snippets'
+[2020-11-12 09:02:06.927] [sharedprocess] [info] Installing extension: octref.vetur
+[2020-11-12 09:02:10.215] [sharedprocess] [info] Downloaded extension: octref.vetur /var/www/project/template-vq/~/.vscode-root/CachedExtensionVSIXs/octref.vetur-0.30.0
+[2020-11-12 09:02:13.301] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.octref.vetur-0.30.0: octref.vetur
+[2020-11-12 09:02:13.302] [sharedprocess] [info] Renamed to /root/.vscode/extensions/octref.vetur-0.30.0
+[2020-11-12 09:02:13.305] [sharedprocess] [info] Installation completed. octref.vetur
+[2020-11-12 09:02:13.318] [sharedprocess] [info] Extensions installed successfully: octref.vetur
+[2020-11-12 09:02:44.491] [sharedprocess] [info] Starting to clean up unused language packs.
